@@ -7,11 +7,11 @@ enhancements, and ideas are welcome.
  Provide steps to reproduce the bug
  Include screenshots if possible
 
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit with a clear message
-5. Submit a pull request
+1 Fork the repository
+2 Create a new branch
+3 Make your changes
+4 Commit with a clear message
+5 Submit a pull request
 
  Keep code clean and readable
  Follow existing project structure
